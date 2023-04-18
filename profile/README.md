@@ -1,3 +1,4 @@
+<img src="https://avatars.githubusercontent.com/u/130751529?s=200&v=4"/>
 <h1>Welcome to Workout Factor.</h1>
 <hr />
 <h3>Who are we?</h3>
